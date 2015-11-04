@@ -51,7 +51,7 @@ Open data commons like OpenStreetMap or OpenAddresses fundamentally change how w
 * **NASA Ames DEVELOP Project** Emily “Chippie” Kislik (Center Lead, DEVELOP National Program - SSAI, NASA Ames Research Center)
 * **And More to Come!**
 								
-###1:30pm - 2:20pm "Esri and the zombie apocalypse" Brendan O'Neill (Education Specialist, Patterns and Practices, [Esri](http://www.esri.com/)) 
+###1:30pm - 2:20pm "Esri And The Zombie Apocalypse (not really, I'm just still waiting for Brendan's Topic)" Brendan O'Neill (Education Specialist, Patterns and Practices, [Esri](http://www.esri.com/)) 
 
 *Brendan support Esri's education community by identifying and promoting best practices for the ArcGIS platform in K12 schools, colleges and universities, libraries and museums, and research institutions with the goal of encouraging educational organizations to adopt spatial technology in order to improve research and learning outcomes as well as administrative efficiency.*
 
@@ -76,7 +76,7 @@ Imagine visiting the bottom of the sea or the surface of Mars in an afternoon. W
 ###11am - 12 noon "Mapping with Google Fusion Tables""
 ###12 noon - 1:30pm TBD
 ###1:30pm - 3:00pm "Digital Globe GBDX and Playground"
-###3:00pm - 4:00pm "Introduction to SimplyMap.com for Demographic Research"
+###3:00pm - 4:00pm "Introduction to [SimplyMap.com](http://simplymap.com/) for Demographic Research"
 
 
 ##Track 3: Workshops (Branner Study Corner, 2nd Floor)
