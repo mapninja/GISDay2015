@@ -50,6 +50,7 @@ Stamen has been working for the last year with the Digital Scholarship Lab at th
 * **Gaihozu: Japanese Military Maps see the light of day** - Julie Sweetkind-Singer (Head of the Branner Earth Sciences Library & Map Collections)
 * **GIS for Urban Planning in San Jose: Learn how an engineering class is using GIS to help the City of San Jose solve wicked problems related to sustainability and quality of life** - Derek Ouyang (Lecturer, Stanford Civil & Environmental Engineering)
 * **NASA Ames DEVELOP Project** Emily “Chippie” Kislik (Center Lead, DEVELOP National Program - SSAI, NASA Ames Research Center)
+* **David Rumsey Map Center: A Preview** G. Salim Mohammed (David Rumsey Map Center, Stanford University Libraries)
 * **And More to Come!**
 								
 ###1:30pm - 2:20pm "Get with the program: A new era of information products" Brendan O'Neill (Education Specialist, Patterns and Practices, [Esri](http://www.esri.com/)) 
