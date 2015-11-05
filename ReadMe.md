@@ -25,11 +25,12 @@ The Stanford Geospatial Center at Branner Earth Sciences Library has got some gr
 ##Track 1: Invited Speakers and Lightning Talks
  
 ###**10am-10:50am - "The Open Mapping Revolution" Alex Barth (Data Team Lead, [Mapbox](https://www.mapbox.com/))**  
-Open data commons like OpenStreetMap or OpenAddresses fundamentally change how we create and share geospatial data. Open source communities curate global geospatial datasets of immense value, all in the open. This democratizes data production, it spurs innovation and it stimulates economic growth. This trend also rapidly undermines businesses built on proprietary data licensing and it duplicates traditional government GIS efforts. In this talk I'll dive into OpenStreetMap and what it means for the future of maps specifically from a business and government perspective. I'll bring examples of how OpenStreetMap is gaining traction across all sectors and show why this change matters for your work.   
+Open data commons like OpenStreetMap or OpenAddresses fundamentally change how we create and share geospatial data. Open source communities curate global geospatial datasets of immense value, all in the open. This democratizes data production, it spurs innovation and it stimulates economic growth. This trend also rapidly undermines businesses built on proprietary data licensing and it duplicates traditional government GIS efforts. In this talk I'll dive into OpenStreetMap and what it means for the future of maps specifically from a business and government perspective. I'll bring examples of how OpenStreetMap is gaining traction across all sectors and show why this change matters for your work.
+   
 *Alex leads the data team at Mapbox. Mapbox provides tailored location services to companies like Foursquare, Github, Pinterest, and Instacart and builds a big part of its products on open source software and data. Aside from his job at Mapbox he helps grow OpenStreetMap as Vice President of OpenStreetMap's US chapter.*  
 
 ###**11am - 11:50am - "Maps And Technology On The Edge" Eric Rodenbeck (CEO, [Stamen Design](http://stamen.com/))**  
-
+Stamen has been working for the last year with the Digital Scholarship Lab at the University of Richmond on a major revision of the Atlas of the Historical Geography of the United States. This document, the state of the art at its time, pioneered in print many of the cartographic conventions we still use today. We'll take the audience on a journey from the beginnings of American historical geography to the current state of the art as expressed in this project, including the use of open source tools to further the work of digital historical scholarship. 
 
 *Eric is the Founder, CEO, and Creative Director of Stamen Designs. Eric Rodenbeck came to San Francisco in 1994, lured by a deep curiosity for the budding internet-based industry in the city. Twenty years later, Eric’s passion for cities, design, and technology has made him a both a local and international leader at the intersection of all three.*
 
@@ -51,9 +52,11 @@ Open data commons like OpenStreetMap or OpenAddresses fundamentally change how w
 * **NASA Ames DEVELOP Project** Emily “Chippie” Kislik (Center Lead, DEVELOP National Program - SSAI, NASA Ames Research Center)
 * **And More to Come!**
 								
-###1:30pm - 2:20pm "Esri And The Zombie Apocalypse (not really, I'm just still waiting for Brendan's Topic)" Brendan O'Neill (Education Specialist, Patterns and Practices, [Esri](http://www.esri.com/)) 
+###1:30pm - 2:20pm "Get with the program: A new era of information products" Brendan O'Neill (Education Specialist, Patterns and Practices, [Esri](http://www.esri.com/)) 
 
-*Brendan support Esri's education community by identifying and promoting best practices for the ArcGIS platform in K12 schools, colleges and universities, libraries and museums, and research institutions with the goal of encouraging educational organizations to adopt spatial technology in order to improve research and learning outcomes as well as administrative efficiency.*
+In this talk I will address the movement of GIS into the cloud, and the need to communicate with a world that exists in browsers and mobile devices.
+
+*Brendan O’Neill is an education specialist at Esri. His job is to identify and promote best practices for using GIS to improve research and learning outcomes. He was formerly a classical archaeologist, whisky entrepreneur, public health researcher, and English teacher, whose experience has convinced him of the potential for spatial technology to improve the world.*
 
 
 
@@ -80,7 +83,10 @@ Imagine visiting the bottom of the sea or the surface of Mars in an afternoon. W
 
 
 ##Track 3: Workshops (Branner Study Corner, 2nd Floor)
-###11am - 12:30pm "Introduction to ArcGIS Online"
+###11am - 12:30pm "GeoApplications: More than just points on a map. An Introduction to ArcGIS Online"  
+
+In this workshop we will learn to explore your data, author maps, and create powerful GeoApplications without touching a piece of code, all within ArcGIS Online
+
 ###12:30 - 2pm "Make a Map with Mapbox!"
 
 
