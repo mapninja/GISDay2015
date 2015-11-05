@@ -6,6 +6,7 @@
 
 **Location**:  [Hartley Conference Center, in the Ruth Wattis Mitchell Earth Sciences Building, at 397 Panama Mall, Stanford, CA 94305.](https://www.google.com/maps/place/The+Ruth+Wattis+Mitchell+Earth+Sciences+Bldg,+397+Panama+Mall,+Stanford,+CA+94305/@37.4264226,-122.1726589,17z/data=!3m1!4b1!4m7!1m4!3m3!1s0x808fbad564500937:0x8b18903302c8ba69!2sThe+Ruth+Wattis+Mitchell+Earth+Sciences+Bldg,+397+Panama+Mall,+Stanford,+CA+94305!3b1!3m1!1s0x808fbad564500937:0x8b18903302c8ba69)
 
+**Registration**: [http://www.eventbrite.com/e/gisdaystanford-tickets-19264666135](http://www.eventbrite.com/e/gisdaystanford-tickets-19264666135)
 
 The Stanford Geospatial Center at Branner Earth Sciences Library has got some great activities planned for **GIS Day 2015, at Stanford**. We've lined up some amazing speakers who are working on the bleeding edge of geospatial technologies and volunteered geographic information, as well as workshops, games, a great lunch menu, (H)Mappy Hour and more for a full day of action that will leave the GeoNerd Nation inspired and challenged to do more with "where"!
 
