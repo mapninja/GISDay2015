@@ -55,6 +55,7 @@ Stamen has been working for the last year with the Digital Scholarship Lab at th
 *  **Sierra-Way to Heaven: Implementing a Web-Based Decision Support System to Spatially & Statistically Analyze Ecological Conditions of the Sierra Nevada** 
 Chippie Kislik (Center Manager for the DEVELOP National Program at the NASA Ames Research Center)
 * **The Mass Shootings in America Database** Jihae Yoon (GIS Assistant, Stanford Geospatial Center)
+* **How Big is a Big Map? : Imaging the Omi-Kuniezu Tax map of Japan from 1815** Deardra Fuzzell (Cartographic Technology Specialist, Stanford University Libraries)
 * **And More to Come!** 
 								
 ###1:30pm - 2:20pm "Get with the program: A new era of information products" Brendan O'Neill (Education Specialist, Patterns and Practices, [Esri](http://www.esri.com/)) 
