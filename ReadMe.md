@@ -1,5 +1,9 @@
 ## GISDay@Stanford
 
+![SGC Logo](./images/sgclogo1.png)
+
+![Digital Globe Logo](./images/dglogo2color.png)
+
 **Presented by**: **The Stanford Geospatial Center** and **DigitalGlobe**
 
 **Date/Time**: Wednesday, November 18th, 2015. 9:30am - 7:00pm
