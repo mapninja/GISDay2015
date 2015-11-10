@@ -70,9 +70,20 @@ In this talk I will address the movement of GIS into the cloud, and the need to 
 
 
 
-###2:30pm - 3:30pm "Google Expeditions, 360 Imagery and VR for Education" Dr. John Bailey (Program Manager [Geo Education, Google Inc.](https://www.google.com/earth/outreach/index.html))    
-  
-*Dr. John Bailey is a former volcanologist turned Googler. As an undergraduate he studying physics & space science at the University of Kent at Canterbury and Penn State University, but decided there were limited fieldwork opportunities in space. So he switched to the far safer field of volcanology & remote sensing, moving to Hawaii to complete a MS and PhD. To balance the years in the tropics, fate then decided to send John to Alaska as a postdoc with the Alaska Volcano Observatory at the the University of Alaska Fairbanks. Finally after almost two decades in academia he decided he needed a new challenge and joined the Google Earth Outreach team as Program Manager for Geo Education. John loves to travel and explore new places and landscapes for himself. To date he has visited over fifty countries on six continents and will visit his seventh later this year. His goal is to teach knowledge, understanding and stewardship of the planet we live on through the use of Google’s Geo tools and other innovative technologies.*
+###2:30pm - 3:30pm "Educational Engagement through Google Street View" Dr. John Bailey (John E Bailey, Program Manager, Google Geo Education](https://www.google.com/earth/outreach/index.html))    
+
+Google Street View in Maps, Earth and now through its own mobile app, provides access to over seven million miles
+ of interactive 360-degree panoramas captured in 70+ countries, across all seven continents and in the world’s oceans. The Street View cars have driven everywhere from along the Avenue des Champs-Elysées
+to through the tsunami devastated region of Tohoku, Japan. Special cameras have gone inside the White House and explored
+ underwater at the Great Barrier Reef. The Street View Trekkers have journeyed into the Grand Canyon, flown over Amazonian jungles on ziplines and toured the Egyptian Pyramids on the back of a camel. All of which adds up to a vast and diverse archive of imagery,
+ with unlimited potential for exploring the planet we live on. We will discuss different ways to engage with this geolocated imagery including the ability to embed images in webpages, exploration using Cardboard (Google’s simple VR viewer which anyone can build
+ or buy), and how anyone can create their own 360 degree panoramas and use them to tell stories about the world around us.
+ 
+*Dr. John Bailey is a former volcanologist turned Googler. As an undergraduate he studied physics & space science
+ at the University of Kent at Canterbury and Penn State University, but decided there were limited fieldwork opportunities in space. So he switched to the far safer field of volcanology & remote sensing, moving to Hawaii to complete a MS and PhD. To balance
+ the years in the tropics, John then accepted a postdoc at the Alaska Volcano Observatory at the the University of Alaska Fairbanks, where he went later became an assistant professor. Finally after almost two decades in academia he decided he needed a new challenge
+ and joined the Google Earth Outreach team as Program Manager for Geo Education. John loves to travel and explore new places and landscapes for himself. To date he has visited over fifty countries on six continents and is about to visit his seventh. His goal
+ is to teach knowledge, understanding and stewardship of the planet we live on through the use of Google’s Geo tools and other innovative technologies*
 
 ###3:30pm - 4pm [Google Expeditions](https://www.google.com/edu/expeditions/) Demo
 
