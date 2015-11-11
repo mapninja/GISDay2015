@@ -92,13 +92,19 @@ Imagine visiting the bottom of the sea or the surface of Mars in an afternoon. W
 
 *Shay Har-Noy is the co-founder of Tomnod and currently leading the DigitalGlobe initiative in Geospatial Big Data a platform a platform, ecosystem, and product portfolio to exploit imagery at scaleand build rapid insight about our planet to open new markets and enable new use cases.*
 
-**Talks from some of the top innovators in Geospatial Technologies and services, including:**
-
 ##Track 2: Workshops (Branner Teaching Corner, 2nd Floor)
 
-###11am - 12 noon "Mapping with Google Fusion Tables""
+###11am - 12 noon "Mapping with Google Fusion Tables"
+Learn how to use Mapbox to make maps for th web! We'll learn how to style street maps, visualize data on top of it and share maps on the web and mobile. All you need to bring for this workshop is a computer. Programming skills optional :)
+
+
 ###12 noon - 1:30pm TBD
-###1:30pm - 3:00pm "Digital Globe GBDX and Playground"
+###1:30pm - 3:00pm "Digital Globe GBDX and Playground" 
+**What would you do with 70 petabytes of high-resolution satellite imagery?**  
+In this session you will learn how you can generate new information and insight from satellite imagery and how this opportunity is creating a new generation of geospatial professionals.
+
+*Lead by Jordan Winkler, PhD.   Dr. Winkler is a Geospatial Big Data Solutioneer at DigitalGlobe where he focuses on helping customers extract information and insight from satellite imagery at scale.  He holds a PhD in Geography where he focused on spatial analytics and agricultural vulnerability to climate change​.*  
+
 ###3:00pm - 4:00pm "Introduction to [SimplyMap.com](http://simplymap.com/) for Demographic Research"
 
 
@@ -108,6 +114,9 @@ Imagine visiting the bottom of the sea or the surface of Mars in an afternoon. W
 In this workshop we will learn to explore your data, author maps, and create powerful GeoApplications without touching a piece of code, all within ArcGIS Online
 
 ###12:30 - 2pm "Make a Map with Mapbox!"
+Learn how to use Mapbox to make maps for the web! We'll learn how to style street maps, visualize data on top of it and share maps on the web and mobile. All you need to bring for this workshop is a computer. Programming skills optional!
+
+*Alex leads the data team at Mapbox. Mapbox provides tailored location services to companies like Foursquare, Github, Pinterest, and Instacart and builds a big part of its products on open source software and data. Aside from his job at Mapbox he helps grow OpenStreetMap as Vice President of OpenStreetMap's US chapter.*  
 
 
 ### 2pm - 4pm Crisis Mapping with MaptimeSV: Part Of The Openstreetmap Geography Awareness Week
