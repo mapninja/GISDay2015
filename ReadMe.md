@@ -48,19 +48,18 @@ Stamen has been working for the last year with the Digital Scholarship Lab at th
 ##Track 1: Continued...
 
 ###**12 Noon - 1:30pm - Lightning Talks**  
-* **The Stanford Spatial Data Infrastructure** - Darren Hardy, PhD (Stanford University Digital Library Systems and Services) 
+1. **The Stanford Geospatial Center** - David Medeiros (Geospatial Reference & Instruction Specialist, Stanford Geospatial Center)
+* **Gaihozu: Japanese Military Maps see the light of day** - Julie Sweetkind-Singer (Head of the Branner Earth Sciences Library & Map Collections)
+* **The Mass Shootings in America Database** Jihae Yoon (GIS Assistant, Stanford Geospatial Center)
 * **Earthworks: Stanford's Geospatial Data Discovery Portal** - Jack Reed (Stanford University Digital Library Systems and Services) 
+* **The Stanford Spatial Data Infrastructure** - Darren Hardy, PhD (Stanford University Digital Library Systems and Services) 
+* **David Rumsey Map Center: A Preview** G. Salim Mohammed (David Rumsey Map Center, Stanford University Libraries)
+* **How Big is a Big Map? : Imaging the Omi-Kuniezu Tax map of Japan from 1815** Deardra Fuzzell (Cartographic Technology Specialist, Stanford University Libraries)
 * **Mapping Chinese Grave Relocation** - David McClure (Research developer in the Center for Interdisciplinary Digital Research (CIDR) at Stanford University Library) 
 * **Authorial London: A Literary Geography Project** - Karl Grossner (Research developer in the Center for Interdisciplinary Digital Research (CIDR) at Stanford University Library) 
-* **Gaihozu: Japanese Military Maps see the light of day** - Julie Sweetkind-Singer (Head of the Branner Earth Sciences Library & Map Collections)
 * **GIS for Urban Planning in San Jose: Learn how an engineering class is using GIS to help the City of San Jose solve wicked problems related to sustainability and quality of life** - Derek Ouyang (Lecturer, Stanford Civil & Environmental Engineering)
-* **NASA Ames DEVELOP Project** Emily “Chippie” Kislik (Center Lead, DEVELOP National Program - SSAI, NASA Ames Research Center)
-* **David Rumsey Map Center: A Preview** G. Salim Mohammed (David Rumsey Map Center, Stanford University Libraries)
 *  **Sierra-Way to Heaven: Implementing a Web-Based Decision Support System to Spatially & Statistically Analyze Ecological Conditions of the Sierra Nevada** 
 Chippie Kislik (Center Manager for the DEVELOP National Program at the NASA Ames Research Center)
-* **The Mass Shootings in America Database** Jihae Yoon (GIS Assistant, Stanford Geospatial Center)
-* **How Big is a Big Map? : Imaging the Omi-Kuniezu Tax map of Japan from 1815** Deardra Fuzzell (Cartographic Technology Specialist, Stanford University Libraries)
-* **And More to Come!** 
 								
 ###1:30pm - 2:20pm "Get with the program: A new era of information products" Brendan O'Neill (Education Specialist, Patterns and Practices, [Esri](http://www.esri.com/)) 
 
