@@ -88,7 +88,9 @@ to through the tsunami devastated region of Tohoku, Japan. Special cameras have 
 
 Imagine visiting the bottom of the sea or the surface of Mars in an afternoon. With Expeditions, teachers can take their classes on immersive virtual journeys to bring their lessons to life. **John Bailey** will provide a hand's on demonstration of Google's new Expeditions platform for VR in Education.
 
-###4pm - 4:50pm "Crowd-sourcing Satellite Imagery Analytics" Shay Har-Noy (Founder, [Tomnod](http://www.tomnod.com/) / Senior Director of Product Management, [DigitalGlobe](https://www.digitalglobe.com/))
+###4pm - 4:50pm "When Crowds Meet Machines — Geospatial Big Data" Shay Har-Noy (Founder, [Tomnod](http://www.tomnod.com/) / Senior Director of Product Management, [DigitalGlobe](https://www.digitalglobe.com/))
+
+What happens when you take the worlds largest collection of high resolution imagery — a time machine into the planet -- and combine it with deep learning and crowdsourcing? In this talk Dr. Shay Har-Noy will discuss how DigitalGlobe is enabling a new class of geo, machine learning, and remote sensing applications at a scale like never before.  The days of data snacking are over. 
 
 *Shay Har-Noy is the co-founder of Tomnod and currently leading the DigitalGlobe initiative in Geospatial Big Data a platform a platform, ecosystem, and product portfolio to exploit imagery at scaleand build rapid insight about our planet to open new markets and enable new use cases.*
 
