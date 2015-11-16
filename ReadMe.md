@@ -60,6 +60,8 @@ Stamen has been working for the last year with the Digital Scholarship Lab at th
 * **GIS for Urban Planning in San Jose: Learn how an engineering class is using GIS to help the City of San Jose solve wicked problems related to sustainability and quality of life** - Derek Ouyang (Lecturer, Stanford Civil & Environmental Engineering)
 *  **Sierra-Way to Heaven: Implementing a Web-Based Decision Support System to Spatially & Statistically Analyze Ecological Conditions of the Sierra Nevada** 
 Chippie Kislik (Center Manager for the DEVELOP National Program at the NASA Ames Research Center)
+* **Dams, Snails, and Prawns: GIS in Disease Ecology and Control ** Diana La (GIS Tech
+Stanford Hopkins Marine Station, DeLeo Lab)
 								
 ###1:30pm - 2:20pm "Get with the program: A new era of information products" Brendan O'Neill (Education Specialist, Patterns and Practices, [Esri](http://www.esri.com/)) 
 
