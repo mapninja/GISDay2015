@@ -99,7 +99,7 @@ What happens when you take the worlds largest collection of high resolution imag
 ##Track 2: Workshops (Branner Teaching Corner, 2nd Floor)
 
 ###11am - 12 noon "Mapping with Google Fusion Tables"
-
+Learn to make a map from data in Google Fusion Tables!
 
 
 ###12 noon - 1:30pm TBD
