@@ -99,7 +99,7 @@ What happens when you take the worlds largest collection of high resolution imag
 ##Track 2: Workshops (Branner Teaching Corner, 2nd Floor)
 
 ###11am - 12 noon "Mapping with Google Fusion Tables"
-Learn how to use Mapbox to make maps for th web! We'll learn how to style street maps, visualize data on top of it and share maps on the web and mobile. All you need to bring for this workshop is a computer. Programming skills optional :)
+
 
 
 ###12 noon - 1:30pm TBD
