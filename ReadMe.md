@@ -99,7 +99,8 @@ What happens when you take the worlds largest collection of high resolution imag
 ##Track 2: Workshops (Branner Teaching Corner, 2nd Floor)
 
 ###11am - 12 noon "Mapping with Google Fusion Tables"
-Learn to make a map from data in Google Fusion Tables!
+Looking to tell a visual story with your data? In this workshop, we’ll introduce you to Google Fusion Tables, a tool to help you host, visualize
+ and publish your spreadsheet data as interactive maps for the web. The session will get you familiar with how easily your data can be turned into a visualization with impact.
 
 
 ###12 noon - 1:30pm TBD
